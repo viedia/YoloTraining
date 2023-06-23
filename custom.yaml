@@ -1,0 +1,8 @@
+path: D:\GABRIEL_Masson\DeepL\Dataset
+train: D:\GABRIEL_Masson\DeepL\Dataset\train
+test: D:\GABRIEL_Masson\DeepL\Dataset\test
+val: D:\GABRIEL_Masson\DeepL\Dataset\valid
+
+nc: 3
+
+names: ["circle", "rectangle", "arrow"]
